@@ -117,9 +117,18 @@
 
 ## 💡 Motivation
 
-```java
-while (!success) {
-    tryAgain();
-    learn();
-    improve();
-}
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Keep+Learning;Keep+Building;Never+Give+Up;Success+Comes+with+Consistency" />
+</p>
+
+<p align="center">
+  <b>"Every expert was once a beginner."</b>
+</p>
+
+<p align="center">
+  <b>"Code. Learn. Improve. Repeat."</b>
+</p>
+
+<p align="center">
+  <b>"Success comes from consistency, not perfection."</b>
+</p>
