@@ -1,5 +1,3 @@
-
-```md
 <h1 align="center">👋 Hi, I'm Rohini</h1>
 <h3 align="center">Computer Science Student | Java Learner | AI & Web Development Enthusiast</h3>
 
@@ -46,22 +44,22 @@
 ## 🗂️ Featured Projects
 
 ### 🤖 MS Project AI
-🔗 https://github.com/ROHINI16004/MS-project-AI
+[MS-project-AI](https://github.com/ROHINI16004/MS-project-AI)
 
 ### ✅ To-Do List App
-🔗 https://github.com/ROHINI16004/todolist
+[todolist](https://github.com/ROHINI16004/todolist)
 
 ### ⏰ Digital Clock
-🔗 https://github.com/ROHINI16004/Digital-clock
+[Digital-clock](https://github.com/ROHINI16004/Digital-clock)
 
 ### 🧠 AI Project
-🔗 https://github.com/ROHINI16004/project-AI
+[project-AI](https://github.com/ROHINI16004/project-AI)
 
 ### 🔐 Steganography Project
-🔗 https://github.com/ROHINI16004/steganography
+[steganography](https://github.com/ROHINI16004/steganography)
 
 ### 🏥 Disease Prediction using AI
-🔗 https://github.com/ROHINI16004/project-predict-disease-AI
+[project-predict-disease-AI](https://github.com/ROHINI16004/project-predict-disease-AI)
 
 ---
 
@@ -99,16 +97,3 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ROHINI16004&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
-
----
-
-## 🌐 Connect With Me
-
-<p>
-  <a href="https://github.com/ROHINI16004">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-```
-
-Create a repository named `ROHINI16004`, paste this into the `README.md` file, and your GitHub profile page will automatically show this design.
