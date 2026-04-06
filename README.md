@@ -115,7 +115,6 @@
 
 ---
 
-## 💡 Motivation
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Keep+Learning;Keep+Building;Never+Give+Up;Success+Comes+with+Consistency" />
@@ -131,4 +130,17 @@
 
 <p align="center">
   <b>"Success comes from consistency, not perfection."</b>
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Code.+Learn.+Build.;Java+Developer+in+Progress;Turning+Ideas+Into+Projects;Keep+Coding+Keep+Growing" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-Developer-orange?style=for-the-badge&logo=java" />
+  <img src="https://img.shields.io/badge/DSA-Learner-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI-Enthusiast-purple?style=for-the-badge" />
 </p>
