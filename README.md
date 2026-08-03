@@ -7,7 +7,7 @@
 
 ---
 
-## 💫 About Me
+## 💫 About M
 
 - ☕ Passionate Java Developer
 - 🎓 Computer Science Student
