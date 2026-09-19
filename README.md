@@ -64,18 +64,8 @@
 
 
 
-## ⚡ GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ROHINI16004&show_icons=true&theme=tokyonight" height="170" />
 
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROHINI16004&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 
 ##  Profile Views
