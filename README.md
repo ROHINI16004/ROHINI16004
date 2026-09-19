@@ -62,15 +62,7 @@
 ### 🏥 Disease Prediction using AI
 <a href="https://github.com/ROHINI16004/project-predict-disease-AI">project-predict-disease-AI</a>
 
----
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ROHINI16004&theme=tokyonight&row=1&column=6" />
-</p>
-
----
 
 ## ⚡ GitHub Stats
 
@@ -85,15 +77,8 @@
 
 ---
 
-## 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ROHINI16004&theme=tokyo-night" />
-</p>
-
----
-
-## 👀 Profile Views
+##  Profile Views
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ROHINI16004&label=Profile%20views&color=0e75b6&style=flat" />
